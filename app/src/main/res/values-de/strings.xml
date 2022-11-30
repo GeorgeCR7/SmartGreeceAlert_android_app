@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartGreeceAlert</string>
+    <string name="passwordText">Passwort</string>
+    <string name="emailText">Email</string>
+    <string name="loginText">Anmeldung</string>
+    <string name="changeLanguageText">Sprache ändern</string>
+    <string name="registerText">Registrieren</string>
+    <string name="loginEmpty">Bitte geben Sie Ihre email und Ihr Passwort ein</string>
+    <string name="passwordRetypeText">Kennwort erneut eingeben</string>
+    <string name="lastNameText">Nachname</string>
+    <string name="firstNameText">Vorname</string>
+    <string name="registerFailed">Registrierung fehlgeschlagen</string>
+    <string name="registerSuccess">Die Registrierung war erfolgreich!</string>
+    <string name="fillAllFields">Bitte füllen Sie alle Felder aus</string>
+    <string name="invalidEmail">E-Mail-Adresse ist falsch</string>
+    <string name="invalidPassword">Das Passwort muss mindestens 6 Zeichen enthalten</string>
+    <string name="passwordsNotMatch">Passwörter stimmen nicht überein</string>
+    <string name="contactsText">Kontakte</string>
+    <string name="abortText">Abbrechen</string>
+    <string name="fireText">Feuer</string>
+    <string name="languageText">Sprache</string>
+    <string name="statisticsText">Statistiken</string>
+    <string name="contactsPermissionDenied">Sie müssen Kontaktberechtigungen erteilen, um einen Kontakt hinzuzufügen</string>
+    <string name="locationPermissionDenied">Sie müssen Standortberechtigungen erteilen, um einen Sturz oder ein Erdbeben zu erkennen</string>
+    <string name="noContacts">Sie haben keine Kontakte</string>
+    <string name="backText">Zurück</string>
+    <string name="countdownLabel">Countdown-timer:</string>
+    <string name="earthquakeDetected">Erdbeben erkannt</string>
+    <string name="messageSent">Nachricht gesendet</string>
+    <string name="fireHazard">Ich bin an dem Ort mit Längengrad LONGITUDE und Breitengrad LATITUDE und sehe Feuer.</string>
+    <string name="smsPermissionDenied">Sie müssen SMS-Berechtigungen erteilen, um Ihre Kontakte zu benachrichtigen</string>
+    <string name="uploading">Hochladen…</string>
+    <string name="imageUploaded">Bild hochgeladen</string>
+    <string name="failure">Fehler: </string>
+    <string name="uploaded">Hochgeladen </string>
+    <string name="chooseLanguage">Sprache wählen…</string>
+    <string name="cancelDialog">Stornieren</string>
+    <string name="engLanguage">Englisch</string>
+    <string name="grLanguage">Griechisch</string>
+    <string name="deLanguage">Deutsche</string>
+    <string name="message_sent">Nachricht wird gesendet.</string>
+    <string name="message_fail">Nachricht konnte nicht gesendet werden.</string>
+    <string name="statsMenuEventType">Veranstaltung</string>
+    <string name="statsMenuDate">Datum</string>
+    <string name="noActiveDanger">Es besteht keine aktive Gefahr</string>
+    <string name="fallDanger">Ich bin an dem Ort mit Längengrad LONGITUDE und Breitengrad LATITUDE und ich brauche Hilfe.</string>
+
+    <!-- Statistics Activity Page -->
+    <string name="stats_main_label">Statistiken</string>
+    <string name="eventLabel">Ereignistyp:</string>
+    <string name="dateLabel">Datum:</string>
+    <string name="totalResults">Gesamt:</string>
+    <string name="eventsAll">Alle</string>
+    <string-array name="events">
+        <item>@string/eventsAll</item>
+        <item>Fallen</item>
+        <item>Erdbeben</item>
+        <item>Feuer</item>
+    </string-array>
+    <string name="dateToday">Heute</string>
+    <string name="dateLastWeek">Letzte Woche</string>
+    <string name="dateLastMonth">Letzten Monat</string>
+    <string name="dateLastYear">Letztes Jahr</string>
+    <string-array name="dates">
+        <item>@string/dateToday</item>
+        <item>@string/dateLastWeek</item>
+        <item>@string/dateLastMonth</item>
+        <item>@string/dateLastYear</item>
+    </string-array>
+
+    <!-- ///////////////// -->
+    <string name="backgroundText">background</string>
+    <string name="logoutText">logout</string>
+    <string name="imageText">image</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568047577876",
+    "project_id": "smartgreecealert",
+    "storage_bucket": "smartgreecealert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568047577876:android:d404438584d5061253f001",
+        "android_client_info": {
+          "package_name": "com.example.smartgreecealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568047577876-tjpv365pve1852gdj0evlgu28ro8c859.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKPDNDz6QyPqAgIMVKzyX3Gxly3vXPEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568047577876-tjpv365pve1852gdj0evlgu28ro8c859.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

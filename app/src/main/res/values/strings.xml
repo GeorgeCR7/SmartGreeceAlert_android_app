@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">SmartGreeceAlert</string>
+    <string name="passwordText">Password</string>
+    <string name="emailText">Email</string>
+    <string name="loginText">Login</string>
+    <string name="changeLanguageText">Change Language</string>
+    <string name="registerText">Register</string>
+    <string name="loginEmpty">Please fill in your email and password</string>
+    <string name="passwordRetypeText">Retype password</string>
+    <string name="lastNameText">Last name</string>
+    <string name="firstNameText">First Name</string>
+    <string name="registerFailed">Register failed</string>
+    <string name="registerSuccess">Registration was successful!</string>
+    <string name="fillAllFields">Please fill in all fields</string>
+    <string name="invalidEmail">Email address is incorrect</string>
+    <string name="invalidPassword">Password must contain at least 6 characters</string>
+    <string name="passwordsNotMatch">Passwords don\'t match</string>
+    <string name="contactsText">Contacts</string>
+    <string name="abortText">Abort</string>
+    <string name="fireText">Fire</string>
+    <string name="languageText">Language</string>
+    <string name="statisticsText">Statistics</string>
+    <string name="contactsPermissionDenied">You have to give contact permissions to add a contact</string>
+    <string name="locationPermissionDenied">You have to give location permissions to detect a fall or an earthquake</string>
+    <string name="noContacts">You have no contacts</string>
+    <string name="backText">Back</string>
+    <string name="countdownLabel">Countdown timer:</string>
+    <string name="earthquakeDetected">Earthquake detected</string>
+    <string name="messageSent">Message sent</string>
+    <string name="fireHazard">I am in the location with longitude LONGITUDE and latitude LATITUDE and I see fire.</string>
+    <string name="smsPermissionDenied">You have to give sms permissions to notify your contacts</string>
+    <string name="uploading">Uploading…</string>
+    <string name="imageUploaded">Image uploaded</string>
+    <string name="failure">Failure: </string>
+    <string name="uploaded">Uploaded </string>
+    <string name="chooseLanguage">Choose language…</string>
+    <string name="cancelDialog">Cancel</string>
+    <string name="engLanguage">English</string>
+    <string name="grLanguage">Greek</string>
+    <string name="deLanguage">German</string>
+    <string name="message_sent">Message is sent.</string>
+    <string name="message_fail">Failed to send message.</string>
+    <string name="statsMenuEventType">Event Type</string>
+    <string name="statsMenuDate">Date</string>
+    <string name="noActiveDanger">There is no active danger</string>
+    <string name="fallDanger">I am in the location with longitude LONGITUDE and latitude LATITUDE and I need help.</string>
+
+    <!-- Statistics Activity Page -->
+    <string name="stats_main_label">Statistics</string>
+    <string name="eventLabel">Event type:</string>
+    <string name="dateLabel">Date:</string>
+    <string name="totalResults">Total:</string>
+    <string name="eventsAll">All</string>
+    <string-array name="events">
+        <item>@string/eventsAll</item>
+        <item>Fall</item>
+        <item>Earthquake</item>
+        <item>Fire</item>
+    </string-array>
+    <string name="dateToday">Today</string>
+    <string name="dateLastWeek">Last week</string>
+    <string name="dateLastMonth">Last month</string>
+    <string name="dateLastYear">Last year</string>
+    <string-array name="dates">
+        <item>@string/dateToday</item>
+        <item>@string/dateLastWeek</item>
+        <item>@string/dateLastMonth</item>
+        <item>@string/dateLastYear</item>
+    </string-array>
+
+
+    <!-- ///////////////// -->
+    <string name="backgroundText">background</string>
+    <string name="logoutText">logout</string>
+    <string name="imageText">image</string>
+</resources>

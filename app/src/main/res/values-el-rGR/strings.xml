@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartGreeceAlert</string>
+    <string name="passwordText">Κωδικός</string>
+    <string name="emailText">Email</string>
+    <string name="loginText">Σύνδεση</string>
+    <string name="changeLanguageText">Αλλαγή γλώσσας</string>
+    <string name="registerText">Εγγραφή</string>
+    <string name="loginEmpty">Συμπλήρωσε email και κωδικό</string>
+    <string name="passwordRetypeText">Κωδικός ξανά</string>
+    <string name="lastNameText">Επίθετο</string>
+    <string name="firstNameText">Όνομα</string>
+    <string name="registerFailed">Αποτυχία εγγραφής</string>
+    <string name="registerSuccess">Επιτυχής εγγραφή!</string>
+    <string name="fillAllFields">Συμπλήρωσε όλα τα κενά</string>
+    <string name="invalidEmail">Το email είναι λάθος</string>
+    <string name="invalidPassword">Ο κώδικος πρέπει να περιέχει τουλάχιστον 6 χαρακτήρες</string>
+    <string name="passwordsNotMatch">Οι κωδικοί δεν ταιριάζουν</string>
+    <string name="contactsText">Επαφες</string>
+    <string name="abortText">Ακυρο</string>
+    <string name="fireText">Φωτια</string>
+    <string name="languageText">Γλώσσα</string>
+    <string name="statisticsText">Στατιστικα</string>
+    <string name="contactsPermissionDenied">Πρέπει να δώσετε δικαιώματα για να προσθέσετε επαφές</string>
+    <string name="locationPermissionDenied">Πρέπει να δώσετε δικαιώματα τοποθεσίας για να ανιχνευθεί πιθανή πτώση ή σεισμός</string>
+    <string name="noContacts">Δεν έχετε επαφές</string>
+    <string name="backText">Πίσω</string>
+    <string name="countdownLabel">Αντίστροφη μέτρηση:</string>
+    <string name="earthquakeDetected">Εντοπίστηκε σεισμός</string>
+    <string name="messageSent">Το μήνυμα εστάλη</string>
+    <string name="fireHazard">Βρίσκομαι στην τοποθεσία με γεωγραφικό μήκος LONGITUDE και γεωγραφικό πλάτος LATITUDE και παρατηρώ μια πυρκαγιά.</string>
+    <string name="smsPermissionDenied">Πρέπει να δώσετε δικαιώματα αποστολής sms για να ειδοποιηθούν οι επαφές σας</string>
+    <string name="uploading">Ανεβαίνει…</string>
+    <string name="imageUploaded">Η εικόνα ανέβηκε</string>
+    <string name="failure">Αποτυχία: </string>
+    <string name="uploaded">Ανέβηκε </string>
+    <string name="chooseLanguage">Επιλογή γλώσσας…</string>
+    <string name="cancelDialog">Aκυρο</string>
+    <string name="engLanguage">Αγγλικά</string>
+    <string name="grLanguage">Ελληνικά</string>
+    <string name="deLanguage">Γερμανικά</string>
+    <string name="message_sent">Το μήνυμα στάλθηκε.</string>
+    <string name="message_fail">Αποτυχία αποστολής μηνύματος.</string>
+    <string name="statsMenuEventType">Συμβάν</string>
+    <string name="statsMenuDate">Ημερομηνία</string>
+    <string name="noActiveDanger">Δεν υπάρχει κάποιος ενεργός κίνδυνος</string>
+    <string name="fallDanger">Βρίσκομαι στην τοποθεσία με γεωγραφικό μήκος LONGITUDE και γεωγραφικό πλάτος LATITUDE και χρειάζομαι βοήθεια.</string>
+
+    <!-- Statistics Activity Page -->
+    <string name="stats_main_label">Στατιστικά</string>
+    <string name="eventLabel">Συμβάν:</string>
+    <string name="dateLabel">Ημερομηνία:</string>
+    <string name="totalResults">Σύνολο:</string>
+    <string name="eventsAll">Όλα</string>
+    <string-array name="events">
+        <item>@string/eventsAll</item>
+        <item>Πτώση</item>
+        <item>Σεισμός</item>
+        <item>Φωτιά</item>
+    </string-array>
+    <string name="dateToday">Σήμερα</string>
+    <string name="dateLastWeek">Τελευταία εβδομάδα</string>
+    <string name="dateLastMonth">Τελευταίος μήνας</string>
+    <string name="dateLastYear">Τελευταίος χρόνος</string>
+    <string-array name="dates">
+        <item>@string/dateToday</item>
+        <item>@string/dateLastWeek</item>
+        <item>@string/dateLastMonth</item>
+        <item>@string/dateLastYear</item>
+    </string-array>
+
+
+    <!-- ///////////////// -->
+    <string name="backgroundText">background</string>
+    <string name="logoutText">logout</string>
+    <string name="imageText">image</string>
+</resources>
